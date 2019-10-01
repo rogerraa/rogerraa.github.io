@@ -1,3 +1,4 @@
 # help
 
-[logo]: https://rogerraa.github.io/images/auralex.jpeg "Logo Title Text 2"
+
+![alt text](https://rogerraa.github.io/images/auralex.jpeg "Alt Text")
